@@ -333,6 +333,15 @@ print(list(evenNumbers))
 ```
 
 ---
+```python
+"""
+Solution by: GeoWolf
+"""
+evens = list(filter(lambda x: x % 2 == 0, range(1,21)))
+print(evens)
+```
+
+---
 
 [**_go to previous day_**](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_10.md "Day 10")
 
